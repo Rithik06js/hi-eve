@@ -1,0 +1,1 @@
+export type Step = 'name-entry' | 'welcome-message' | 'greeting-card';
